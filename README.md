@@ -1,8 +1,8 @@
-# Basketball
-This is a project to show also 3d, it is really just a ball.
+# Loud buttons
+Thsi buttons make noise try it out in browser!!
 
 # Interaction
-Interact with it by rotating thw ball and if you rotate and and touch it will bounce.
+Press the buttons and you will hear a clean sound.
 
 # Thanks
-Try it it can be realxing maybe you can use it as a destresser, THX!
+Maybe  it is not the best, but it is my first html project that makes sound!
